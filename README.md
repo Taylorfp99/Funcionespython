@@ -1,0 +1,2 @@
+# Funcionespython
+ ejercicios  de clase
